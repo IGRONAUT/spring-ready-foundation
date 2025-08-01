@@ -19,3 +19,9 @@ When you teach me Spring Boot, I won't be learning concepts — I'll be **transl
 *Example:*  
 - My manual `urlDecode()` → You show me `@RequestParam` → I implement it **immediately** (no theory needed).  
 - My SQLite CRUD → You show me Spring Data JPA → I ship features **in 2 days, not 2 weeks**.
+
+---
+### 💡 Why this proves my OOP mastery:
+- I passed **6 OOP labs in 1 week** by submitting a **production-ready project** (this CGI backend)  
+- The university accepted it as proof of deep OOP understanding (encapsulation, inheritance, polymorphism)  
+- Now I'm applying the same principles to Spring (beans, DI, interfaces)
