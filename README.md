@@ -32,4 +32,4 @@ public void addProduct(@RequestBody ProductDTO dto) { ... } // ← 1:1 replaceme
 | **My project Go** | **Translation to Java**                                                                        | **Your advantage**                                                                           |
 | ----------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | router            | [router](https://github.com/IGRONAUT/spring-ready-foundation/tree/main/java-prototypes/router) | Basic routing logic READY → I will implement Spring Cloud Gateway immediately after training |
-✨ I am ready to turn this foundation into Spring expertise — starting tomorrow. No waiting for an internship: the router proves that I’m already translating my Go experience into Spring.
+>✨ I am ready to turn this foundation into Spring expertise — starting tomorrow. No waiting for an internship: the router proves that I’m already translating my Go experience into Spring.
